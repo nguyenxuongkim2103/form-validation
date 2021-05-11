@@ -30,7 +30,7 @@ npm start
 ## Screen Shots
 
 <p align="center">
-  <img src="form-validation.PNG" width=auto height=auto title="Movie List App">
+  <img src="form-validation.gif" width=auto height=auto title="Movie List App">
 </p>
 
 
